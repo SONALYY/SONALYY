@@ -64,7 +64,7 @@ if __name__ == '__main__':
     print(f"{myself.name} is here!")
 ```
 
-<h1><img src="https://github.com/SONALYY/SONALYY/blob/main/res/7VB.gif" width="80px">Statistics <img src="https://github.com/SONALYY/SONALYY/blob/main/res/7VB.gif" width="80px"></h1>
+<h1><img src="https://github.com/Snehashish06/Snehashish06/blob/main/res/7VB.gif" width="80px">Statistics <img src="https://github.com/Snehashish06/Snehashish06/blob/main/res/7VB.gif" width="80px"></h1>
 <h3> GitHub Activity </h3>
 
 ![Metrics](https://metrics.lecoq.io/SONALYY?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FSolo)
