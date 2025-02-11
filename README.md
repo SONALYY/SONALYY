@@ -1,80 +1,70 @@
-<h1><img src="https://github.com/Snehashish06/Snehashish06/blob/main/res/1ktC.gif" width="190px"><img src="https://github.com/Snehashish06/Snehashish06/blob/main/res/3BBS.gif" width="190px"></h1>
-<h2>Hey there SAHANA B this side! <img src="https://github.com/Snehashish06/Snehashish06/blob/main/res/XDZT.gif" width="30px"><h2>
-    
-----
-<h1> 👻 𝚃𝙷𝙴 𝙾𝙽𝙻𝚈 𝚆𝙰𝚈 𝚃𝙾 𝙳𝙾 𝙶𝚁𝙴𝙰𝚃 𝚆𝙾𝚁𝙺 𝙸𝚂 𝚃𝙾 𝙻𝙾𝚅𝙴 𝚆𝙷𝙰𝚃 𝚈𝙾𝚄 𝙳𝙾 🐼 </h1>
-----
+<!-- Cute Teddy Bear and Doll GIFs for a Welcoming Look -->
+<h1 align="center">
+    <span> 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓖𝓲𝓽𝓗𝓾𝓫! </span>
+   <img src="https://media.tenor.com/sQO10QCwTOAAAAAj/bubu-say-hi-dudu-bubu.gif" width="200px">
 
+</h1>
+
+
+
+---
+<h1 align="center">
+        ✨ 𝑯𝑬𝒀 𝑻𝑯𝑬𝑹𝑬! 𝑰 𝑨𝑴 𝑺𝑨𝑯𝑨𝑵𝑨  ✨
+    </span>
+</h1>
+
+
+## **🚀 About Me**
 <p align="center">
-    <b>Visitors Count <img src="https://github.com/SONALYY/SONALYY/blob/main/res/Z30J.gif" width="20px"></b><br>
-    <img align="middle" src="https://profile-counter.glitch.me/SONALYY/count.svg" />
+    <img src="https://i.pinimg.com/originals/1e/d2/f2/1ed2f24a0444ee7a3f59f6aaa5f9d092.gif" width="200px">
+   
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%231AF73D&size=27&width=500&lines=Hey!+It's+SONALYY!;I'm+a+new+developer...;I+love+to+code;Thanks+for+visiting++my+profile%E2%9D%A4%EF%B8%8F)](https://github.com/SONALYY)
+🎓 Currently pursuing a Bachelor’s degree in AI and Machine Learning, specializing in data analytics, business intelligence, and predictive modeling.  
+🏢 Internship at Knowx Innovations Private Limited, Bangalore where I worked on data trend analysis and actionable insights.
+   📚 Constantly upskilling through Infosys Springboard, UiPath, and Coursera in data analytics, SQL, and Python programming.
 
-<h2> <img src="https://github.com/Snehashish06/Snehashish06/blob/main/res/cat_gif.gif" width="190px"> About Me <img src = "https://github.com/Snehashish06/Snehashish06/blob/main/res/cat1.gif" width="190px"> </h1>
 
-```python3
-class SONALY():
-    
 
-    def __init__(self):
-        self.name = "SONALY"
-        self.country = "India"
-        self.language = ["ಕನ್ನಡ", "English", "हिन्दी"]
+💡 AREAS OF INTERESTS
 
-    def programming_languages(self):
-        return [
-            "Python", "Go", "CPP",  "SQL"
-        ]
+📊 Data Visualization (Tableau, Power BI, Matplotlib, Seaborn)
 
-    def databases(self):
-        return [
-            "SQL",
-            "MySQL",
-            "PostgreSQL",
-            "Redis",
-            "MariaDB",
-            "SQLite",
-            "MongoDB"
-      ]
+📈 Predictive Analytics & Machine Learning
 
-    def markup_languages(self):
-        return [
-            'HTML'
-      ]
- 
-    def developer_tools(self):
-        return [
-            "GitHub", "Git", "GitLab", "MongoDB",
-            "Stack Overflow", "Heroku", "PyDroid", "Visual studio insiders" , "MySql", "Workbench"
-        ]
+🔄 Data Cleaning & Preprocessing (Pandas, NumPy)
 
-    def os(self):
-        return {
-            "Desktop": ["Windows 11 Pro X LITE", 
-                        {"Linux": ["Garuda KDE Dr460nized", "Garuda Wayfire"]}],
-            "Smart Phone": [
-                    {"Android": ["EvolutionX", "Project Elixir", "Miui", "Ancient Os", "Pixel experience", "CrDroid", "FunTouch", "ColorOs"]}]
-        }
- 
+🏢 Business Intelligence & Reporting
 
-if __name__ == '__main__':
-    myself = SONALY()
-    print(f"{myself.name} is here!")
-```
 
-<h1><img src="https://github.com/Snehashish06/Snehashish06/blob/main/res/7VB.gif" width="80px">Statistics <img src="https://github.com/Snehashish06/Snehashish06/blob/main/res/7VB.gif" width="80px"></h1>
-<h3> GitHub Activity </h3>
+As I continue to grow in this dynamic field, I look forward to collaborating with like-minded professionals to turn **raw data into valuable insights**. Let's connect and analyze the world together! 📊✨  
 
+---
+
+## **📊 GitHub Stats & Achievements**
+### **🔥 GitHub Activity**
 ![Metrics](https://metrics.lecoq.io/SONALYY?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FSolo)
 
-### GitHub Awards
+### **🏆 GitHub Awards**
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=SONALYY&theme=darkhub)
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=phaticusthiccy)
+### **💡 Current Streak**
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SONALYY&theme=radical" />
+</p>
 
-### Current Streak
-<img align = "middle" src = "https://github-readme-streak-stats.herokuapp.com/?user=SONALYY" />
+### **📌 Most Used Languages**
+<p align="center">
+    <a href="https://github.com/SONALYY">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SONALYY&theme=radical&layout=compact">
+    </a>
+</p>
 
-### Most used languages
-<p align="center"><a href="https://github.com/SONALYY"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SONALYY&theme=radical&layout=compact"></a></p> 
+---
+
+## **🌍 Connect with Me**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sahana-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-Sahana-black?style=for-the-badge&logo=github)](https://github.com/SONALYY)
+[![Portfolio](https://img.shields.io/badge/Portfolio-My%20Website-orange?style=for-the-badge)](https://your-portfolio.com)
+
+---
